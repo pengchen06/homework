@@ -1,0 +1,1 @@
+archetype:generate -DgroupId=io -DartifactId=iowork -DarchetypeArtifactId=maven-archetype-quickstart  -DinteractiveMode=false
